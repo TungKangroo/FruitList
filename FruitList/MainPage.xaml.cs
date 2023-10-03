@@ -13,7 +13,7 @@ namespace FruitList
         new Fruit(){Name="Strawberry",Image="strawberry.png",Description="This is a strawberry"},
        new Fruit(){Name="Pineapple",Image="pineapple.png",Description="This is a pineapple"},
         new Fruit(){Name="Watermelon",Image="watermelon.png",Description="This is a watermelon"},
-        new Fruit(){Name="Grapes",Image="grapes.png",Description="This is a grapes"},
+        new Fruit(){Name="Grapes",Image="grape.png",Description="This is a grapes"},
  };
             InitializeComponent();
             FruitListView.ItemsSource = list;
